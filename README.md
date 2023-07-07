@@ -38,6 +38,12 @@ chmod 777 <filename>.sh
 
 ### if-else
 
+![image](https://github.com/DhanashriSaner/shell_script/assets/88526990/d5cd1f81-1f31-4a40-ad6f-ef8b788edc41)
+
+#### Output
+
+![image](https://github.com/DhanashriSaner/shell_script/assets/88526990/e1f0f8f3-23d0-42e7-a1e0-f7ef9851f1c6)
+
 
 
 
